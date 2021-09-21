@@ -12,3 +12,9 @@ Task 2 : Prediction using UnSupervised ML
 Problem statement : From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 Data can be found at : https://bit.ly/3kXTdox
+
+Task 3 : Exploratory Data Analysis - Retail
+
+Problem statement : As a business manager, try to find out the weak areas where you canwork to make more profit.
+
+Data can be found at : https://bit.ly/3i4rbWl
